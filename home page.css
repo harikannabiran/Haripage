@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Amita:wght@700&display=swap');
 body{
     margin-left: 10%;
-    margin-right: 18.5%;
+    margin-right: 10%;
 
 }
 .name>h1{
@@ -357,7 +357,7 @@ h2{
 .contact{
     height: 250px;
     background-color:#50A196 ;
-    width: 1424px;
+    width: 1248px;
 }
 .fa-whatsapp{
     padding-left: 50px;
@@ -430,7 +430,7 @@ h2{
 .contact>hr{
     display: flex;
     flex-direction: column;
-    align-items: baseline;
+    align-items: flex-start;
     padding: 0px;
     gap: 10px;
 
