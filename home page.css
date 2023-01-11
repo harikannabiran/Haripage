@@ -404,8 +404,8 @@ h2{
 .contactcontent{
     padding-left: 450px;
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    
+   
     flex: none;
     order: 0;
     flex-grow: 0;
