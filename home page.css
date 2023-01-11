@@ -172,7 +172,7 @@ button{
     top: -10px;
     bottom: 0px;
     z-index: -1;
-    padding_left:900px;
+   
     background: url(bodyimage.jpg), #D9D9D9;
     border: 1px solid #D9D9D9;
     border-bottom-left-radius: 35px;
