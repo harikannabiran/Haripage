@@ -152,7 +152,7 @@ button{
     flex-grow: 0;
 }
 .button{
-    padding-left: 250px;
+    padding-left: 50px;
 }
 .bodyimage>img{
     width: 678px;
@@ -165,7 +165,7 @@ button{
     order: 1;
     flex-grow: 0;
     box-sizing: border-box;
-    padding-left: 50px;
+    padding-left: 10px;
     position: absolute;
     left: 1200px;
     right: -400px;
