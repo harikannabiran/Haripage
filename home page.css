@@ -155,7 +155,7 @@ button{
     padding-left: 50px;
 }
 .bodyimage>img{
-    width: 600px;
+    width: 400px;
     height: 900px;
 
 
@@ -167,7 +167,7 @@ button{
     box-sizing: border-box;
     
     position: absolute;
-    left: 1010px;
+    left: 950px;
     right: -400px;
     top: -10px;
     bottom: 0px;
