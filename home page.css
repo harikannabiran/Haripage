@@ -165,9 +165,9 @@ button{
     order: 1;
     flex-grow: 0;
     box-sizing: border-box;
-    padding-left: 10px;
+    
     position: absolute;
-    left: 1200px;
+    left: 1010px;
     right: -400px;
     top: -10px;
     bottom: 0px;
