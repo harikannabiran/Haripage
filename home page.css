@@ -357,6 +357,7 @@ h2{
 .contact{
     height: 250px;
     background-color:#50A196 ;
+    width: 1024px;
 }
 .fa-whatsapp{
     padding-left: 50px;
@@ -404,7 +405,7 @@ h2{
 .contactcontent{
     padding-left: 450px;
    
-    width: 1024px;
+    
 }
 .contactcontent>h1{
     width: 360px;
