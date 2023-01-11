@@ -11,7 +11,7 @@ body{
     font-family: 'Amita', cursive;
     padding-left: 10px;
 }
-.navcontent{
+.navcontent>span{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
