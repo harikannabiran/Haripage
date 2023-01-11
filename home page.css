@@ -55,7 +55,7 @@ hr{
     padding: 0px;
     gap: 10px;
 
-    width: 1200px;
+    width: 100%;
     height: 0px;
 
 
@@ -152,7 +152,7 @@ button{
     flex-grow: 0;
 }
 .button{
-    padding-left: 50px;
+    padding-left: 600px;
 }
 .bodyimage>img{
     width: 550px;
